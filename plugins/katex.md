@@ -1,6 +1,6 @@
 ---
-title: Katex
-description: TeX math rendering in html
+title: KaTeX
+description: TeX math rendering in HTML
 mod: plugins/katex.ts
 tags:
   - html
